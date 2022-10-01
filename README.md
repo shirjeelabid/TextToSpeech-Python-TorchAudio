@@ -1,2 +1,2 @@
 # TextToSpeech-Python-TorchAudio
-This Python Script will convert any text to its corresponding speech.
+This Jupyter Script will convert any text to its corresponding speech.
